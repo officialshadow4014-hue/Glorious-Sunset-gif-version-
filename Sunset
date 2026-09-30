@@ -47,7 +47,7 @@
 "CARD_SECONDARY_BG": ["#3c3836"],
 "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#fe8019"],
 "REDESIGN_CHAT_INPUT_BACKGROUND": ["#1d2021"],
-"BG_BACKDROP": ["#04010173"]
+"BG_BACKDROP": ["#1d2021b8"]
 },
 "rawColors": {
 "PRIMARY_100": "#ebdbb2",
@@ -89,6 +89,7 @@
 "PLUM_4": "#282828",
 "PLUM_6": "#ebdbb2",
 "PLUM_9": "#a89984",
+
 "GREEN_100": "#b8bb26",
 "GREEN_130": "#b8bb26",
 "GREEN_160": "#b8bb26",
@@ -114,9 +115,11 @@
 "GREEN_830": "#b8bb26",
 "GREEN_860": "#b8bb26",
 "GREEN_900": "#b8bb26",
+
 "GUILD_BOOSTING_PINK": "#fb4934",
 "GUILD_BOOSTING_PURPLE": "#d3869b",
 "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#d3869b",
+
 "RED_260": "#fb4934",
 "RED_300": "#fb4934",
 "RED_330": "#fb4934",
@@ -131,6 +134,7 @@
 "RED_630": "#fb4934",
 "RED_660": "#fb4934",
 "RED_700": "#fb4934",
+
 "YELLOW_100": "#fabd2f",
 "YELLOW_130": "#fabd2f",
 "YELLOW_160": "#fabd2f",
@@ -178,9 +182,9 @@
 "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
 },
 "background": {
-"blur": 0,
+"blur": 3,
 "url": "https://i.pinimg.com/originals/81/af/52/81af529e0f7fbc09b27a21df400c2481.gif",
-"alpha": 1
+"alpha": 0.28
 },
 "plus": {
 "version": "0",
